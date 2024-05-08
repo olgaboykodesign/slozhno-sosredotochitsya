@@ -1,14 +1,13 @@
 :root {
-    --main-text-color: #F1B2CE;
     --background-color: rgb(0 0 40);
     --main-padding: 20px;
     --header-padding: 20px;
     --main-gap: 80px;
     --background-image: url(../images/cover-image-dark.png);
-    --title-color: #000028;
-    --text-color: #F1B2CE;
+    --title-color: rgba(0, 0, 40, 1);
+    --text-color: rgba(241, 178, 206, 1);
     --menu-color: rgba(255, 0, 112, 1);
-    --decorated-color: #DB00FF;
+    --decorated-color: rgba(219, 0, 255, 1);
     --accent-color: rgba(255, 0, 112, 1);
     --rec-display: flex;
     --line-color: rgba(255, 0, 112, 1);

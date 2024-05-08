@@ -46,7 +46,6 @@
     box-shadow: 0 0 4px 2px var(--accent-color);
 }
 
-
 .footer {
     position: relative;
     block-size: 100vb;
@@ -55,7 +54,6 @@
     vertical-align: middle;
     justify-content: center;
     align-items: center;
-
 }
 
 .decorated-line::before {
@@ -81,7 +79,6 @@
     inset-inline-start: 20px;
     inset-block-end: 20px;
 }
-
 
 .decorated-title {
     font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
@@ -288,10 +285,6 @@ img {
 
     .title {
         max-inline-size: 236px;
-    }
-
-    .images-block {
-        /* grid-template-rows: auto 260px 315px 428px; */
     }
 
     .how,
